@@ -1,2 +1,5 @@
 # Ambiente virtual
 env
+
+# Checkpoints
+.ipynb_checkpoints
